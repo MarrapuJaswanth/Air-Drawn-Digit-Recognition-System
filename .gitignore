@@ -1,0 +1,23 @@
+# Virtual environments
+.venv/
+venv/
+pipe/
+pipe311/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large datasets
+*.csv
+*.ipynb
+
+# Temporary files
+temp.py
+input.jpg
